@@ -1,0 +1,4 @@
+pycryptodome
+pdf417gen
+Pillow
+pdf417decoder
